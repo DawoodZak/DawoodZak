@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawoodZak
 - 👀 I’m interested in Coding, Gaming, and content creation.
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
